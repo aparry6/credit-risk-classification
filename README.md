@@ -4,4 +4,4 @@ Model 1, trained on the original data, achieved an accuracy of 94.4% but and did
 Model 2, trained on resampled data, performed better with an accuracy of 99.6% and dramtically increased recall for high-risk loans (1.00).
 Model 2 outperforms Model 1 in predicting high-risk loans and overall accuracy, making it the recommended choice for identifying credit risks.
 
-** I used Chatgt as a resource when completing this Module. 
+** I used Chatgpt as a resource when completing this Module. 
